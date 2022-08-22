@@ -1,0 +1,7 @@
+{
+  "name": "admissionplusapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
